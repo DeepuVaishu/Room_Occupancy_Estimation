@@ -1,5 +1,6 @@
 
 # Room Occupancy Analysis
+![image](https://github.com/user-attachments/assets/be28c55f-b0e1-4ea1-8bd0-cb1baf497cc6)
 
 ## 📌 Overview
 This project focuses on developing a machine learning model to predict room occupancy levels based on sensor data. By leveraging real-time environmental factors, such as temperature, humidity, light, sound, CO2 levels, and motion detection, the model aims to accurately estimate the number of occupants in a room.
@@ -9,8 +10,6 @@ The project follows a structured approach:
 - **Feature Engineering & Selection**
 - **Model Training & Evaluation**
 - **Predictions on Unseen Data**
-
-This repository documents the entire workflow, including data analysis, preprocessing techniques, model building, and final predictions.
 
 ---
 
@@ -29,9 +28,6 @@ This repository documents the entire workflow, including data analysis, preproce
 | `CO2` | CO2 concentration (ppm) |
 | `Sound` | Noise levels in the room |
 | `Motion Sensors (PIR)` | Motion detection flags (binary) |
-
----
-Yes! Here’s a structured way to include your repository contents in your `README.md`:
 
 ---
 ## Repository Contents
